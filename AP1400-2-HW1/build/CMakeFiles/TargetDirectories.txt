@@ -1,0 +1,3 @@
+/Users/apple/Desktop/c++HW/AP1400-2-HW1/build/CMakeFiles/main.dir
+/Users/apple/Desktop/c++HW/AP1400-2-HW1/build/CMakeFiles/edit_cache.dir
+/Users/apple/Desktop/c++HW/AP1400-2-HW1/build/CMakeFiles/rebuild_cache.dir
